@@ -6,12 +6,6 @@
 //
 
 import Foundation
-//Questions
-//How testable is this class?
-//What would you change to make it more testable?
-
-//Inject Initialized parameters on the init call
-//
 
 public class Networking {
     

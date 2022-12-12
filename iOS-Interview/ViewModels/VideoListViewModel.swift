@@ -11,7 +11,6 @@ import Combine
 @MainActor
 class VideoListViewModel: ObservableObject {
     
-    var cancellables: Set<AnyCancellable> = []
     
     init() {
         self.loadVideoList()
